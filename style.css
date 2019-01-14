@@ -2,5 +2,47 @@ body {
   background-color: #85DCB0;
 }
 .jumbotron {
+  background-color: #41B3A3;
+}
+.navbar .nav-item a {
+  color: white;
   background-color: #E27D60;
+  border-top-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+}
+
+.navbar a:hover {
+  color: white;
+  background-color: #85DCB0;
+}
+
+.btn-primary {
+  color: white;
+  background-color: #E27D60;
+  border-color: white;
+}
+
+.btn-primary:hover {
+  color: white;
+  background-color: #85DCB0;
+  border-color: white;
+}
+
+.navbar {
+  background-color: #E8A87C;
+}
+
+label {
+  color: white;
+  background-color: #E27D60;
+  border-radius: 5px;
+  padding: 5px;
+}
+input:focus {
+  color: white;
+  border-color: #E27D60;
+  -webkit-box-shadow: none;
+
+  border-radius: 5px;
+  padding: 5px;
 }
