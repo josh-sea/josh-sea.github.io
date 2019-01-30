@@ -20,11 +20,12 @@ body {
   color: white;
   background-color: #E27D60;
   border-color: white;
+  white-space: normal;
 }
 
 .btn-primary:hover {
   color: white;
-  background-color: #85DCB0;
+  background-color: #E8A87C;
   border-color: white;
 }
 
